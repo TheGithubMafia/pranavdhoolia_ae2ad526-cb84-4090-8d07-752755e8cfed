@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://magenta-octopus-0ba2d.netlify.app"
 }
